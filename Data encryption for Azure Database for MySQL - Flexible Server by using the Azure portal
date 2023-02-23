@@ -1,1 +1,8 @@
 Data encryption for Azure Database for MySQL - Flexible Server by using the Azure portal
+
+Prerequisites
+* An Azure account with an active subscription.
+
+1. Go to your subscription. 
+2. Click on create a resource 
+3. Search for User Assigned Managed Identity 
